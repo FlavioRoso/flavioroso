@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-  <img src="https://i.giphy.com/media/3knKct3fGqxhK/giphy.webp">
+  <!--img src="https://i.giphy.com/media/3knKct3fGqxhK/giphy.webp"-->
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioroso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
